@@ -1,0 +1,8 @@
+div {
+  background-color: lightgreen;
+  color: white;
+  width: 20%;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
